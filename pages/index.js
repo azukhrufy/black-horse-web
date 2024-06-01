@@ -226,7 +226,7 @@ export default function Home() {
           </Container>
         </Box>
         <a
-          href="https://wa.me/6285156167218"
+          href="https://wa.me/6287822405280"
           target="_blank"
           rel="noopener noreferrer"
         >
